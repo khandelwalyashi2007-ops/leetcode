@@ -7,6 +7,7 @@ Here will be my code submissions
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0365-water-and-jug-problem) |
+| [1248-count-number-of-nice-subarrays](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@ Here will be my code submissions
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,11 +34,13 @@ Here will be my code submissions
 | [0424-longest-repeating-character-replacement](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Tree
 |  |
 | ------- |
@@ -50,6 +54,7 @@ Here will be my code submissions
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
