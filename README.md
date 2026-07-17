@@ -20,6 +20,7 @@ Here will be my code submissions
 ## Array
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -29,10 +30,12 @@ Here will be my code submissions
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Tree
 |  |
@@ -46,6 +49,7 @@ Here will be my code submissions
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 ## String
 |  |
 | ------- |
