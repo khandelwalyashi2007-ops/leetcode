@@ -6,6 +6,7 @@ Here will be my code submissions
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0050-powx-n) |
 | [0365-water-and-jug-problem](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0365-water-and-jug-problem) |
 | [1248-count-number-of-nice-subarrays](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Depth-First Search
@@ -65,4 +66,8 @@ Here will be my code submissions
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
