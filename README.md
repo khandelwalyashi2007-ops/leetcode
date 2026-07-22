@@ -23,6 +23,7 @@ Here will be my code submissions
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0134-gas-station) |
 | [0930-binary-subarrays-with-sum](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -76,4 +77,8 @@ Here will be my code submissions
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0994-rotting-oranges) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
