@@ -26,6 +26,7 @@ Here will be my code submissions
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0134-gas-station) |
+| [0496-next-greater-element-i](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -63,6 +64,7 @@ Here will be my code submissions
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -91,4 +93,12 @@ Here will be my code submissions
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0547-number-of-provinces) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
