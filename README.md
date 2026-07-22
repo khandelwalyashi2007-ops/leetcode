@@ -14,11 +14,13 @@ Here will be my code submissions
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0365-water-and-jug-problem](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0365-water-and-jug-problem) |
+| [0547-number-of-provinces](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0365-water-and-jug-problem](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0365-water-and-jug-problem) |
+| [0547-number-of-provinces](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0994-rotting-oranges) |
 ## Array
 |  |
@@ -81,4 +83,12 @@ Here will be my code submissions
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0134-gas-station) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
