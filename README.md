@@ -20,6 +20,7 @@ Here will be my code submissions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0365-water-and-jug-problem](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0365-water-and-jug-problem) |
@@ -70,6 +71,7 @@ Here will be my code submissions
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -78,6 +80,7 @@ Here will be my code submissions
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Recursion
