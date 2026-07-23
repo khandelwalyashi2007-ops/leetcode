@@ -16,6 +16,7 @@ Here will be my code submissions
 | [0199-binary-tree-right-side-view](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0365-water-and-jug-problem](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0547-number-of-provinces](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -24,6 +25,7 @@ Here will be my code submissions
 | [0365-water-and-jug-problem](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0547-number-of-provinces](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1020-number-of-enclaves) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +36,7 @@ Here will be my code submissions
 | [0930-binary-subarrays-with-sum](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1020-number-of-enclaves](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
@@ -86,6 +89,7 @@ Here will be my code submissions
 | ------- |
 | [0130-surrounded-regions](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0130-surrounded-regions) |
 | [0994-rotting-oranges](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1020-number-of-enclaves) |
 ## Greedy
 |  |
 | ------- |
@@ -95,6 +99,7 @@ Here will be my code submissions
 | ------- |
 | [0130-surrounded-regions](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
