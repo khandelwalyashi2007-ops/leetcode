@@ -35,6 +35,7 @@ Here will be my code submissions
 | [0213-house-robber-ii](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0213-house-robber-ii) |
 | [0496-next-greater-element-i](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0930-binary-subarrays-with-sum](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -122,4 +123,5 @@ Here will be my code submissions
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0213-house-robber-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
