@@ -36,6 +36,7 @@ Here will be my code submissions
 | [0130-surrounded-regions](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0134-gas-station) |
 | [0213-house-robber-ii](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -51,6 +52,7 @@ Here will be my code submissions
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
@@ -131,6 +133,7 @@ Here will be my code submissions
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Knapsack Problem
@@ -141,4 +144,8 @@ Here will be my code submissions
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0322-coin-change) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
