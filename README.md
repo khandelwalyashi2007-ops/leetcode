@@ -93,6 +93,7 @@ Here will be my code submissions
 | ------- |
 | [0127-word-ladder](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1143-longest-common-subsequence](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Recursion
 |  |
@@ -136,6 +137,7 @@ Here will be my code submissions
 | [0300-longest-increasing-subsequence](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -148,4 +150,8 @@ Here will be my code submissions
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/khandelwalyashi2007-ops/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
